@@ -1,38 +1,38 @@
 ---
-title: "数据库技术简史"
+title: "A Brief History of Database Technology"
 date: 2024-02-04
 draft: false
 tags: ["database", "technology"]
 categories: ["technology"]
 ---
 
-数据库技术在支撑现代信息系统方面的作用越来越重要，我们邀请了几位数据库技术领域的专家，就数据库技术发展的历史脉络和未来展望进行了广泛而深入的探讨。
+The role of database technology in supporting modern information systems is becoming increasingly important. We invited several experts in the field of database technology to have an extensive and in-depth discussion about the historical development and future prospects of database technology.
 
-嘉宾介绍：
+## Guest Introductions:
 
-盖国强
-- 云和泥墨创始人
-- 鲲鹏MVP
-- 墨铁社区发起人
-- 中国第一位Oracle ACE和ACE总监
-- 《数据安全警示录》《Oracle深度解析》等技术书籍作者
+### Gai Guoqiang
+- Founder of Cloud and Clay Ink
+- Kunpeng MVP
+- Founder of Iron Ink Community
+- China's first Oracle ACE and ACE Director
+- Author of technical books including "Data Security Warning Records" and "Oracle In-Depth Analysis"
 
-陈立仁
-- 磐霖资本风险合伙人
-- 证监会科技监管专家咨询委员会委员
-- 乌镇智库首席科学家
-- 20多年互联网研发和管理经验
-- 联合创立过Hubat、Vivisimo、云云网、平实科技等公司
-- 曾任Google（美国）项目技术总监
-- 清华大学、卡内基梅隆大学双硕士
+### Chen Liren
+- Risk Partner at Panlin Capital
+- Member of CSRC Technology Supervision Expert Advisory Committee
+- Chief Scientist at Wuzhen Think Tank
+- Over 20 years of Internet R&D and management experience
+- Co-founded companies including Hubat, Vivisimo, Cloud Network, and Pingshi Technology
+- Former Technical Director at Google (USA)
+- Dual Master's degrees from Tsinghua University and Carnegie Mellon University
 
-罗云
-- 腾讯云数据库副总经理
-- 腾讯云NoSQL和SaaS团队整体业务负责人
-- 腾讯云创始团队成员
-- 10年以上云计算领域专家
-- 主导微信小程序云开发平台研发
-- 主导多个数据库SaaS生态服务上线
+### Luo Yun
+- Vice General Manager of Tencent Cloud Database
+- Overall Business Leader of Tencent Cloud NoSQL and SaaS Teams
+- Founding Member of Tencent Cloud
+- Cloud Computing Expert with over 10 years of experience
+- Led WeChat Mini Program Cloud Development Platform
+- Led multiple database SaaS ecosystem service launches
 
 ## Key Historical Milestones
 
@@ -117,4 +117,4 @@ Database technology continues to evolve, driven by:
 - AI integration
 - Cloud computing adoption
 
-The future points toward more intelligent, automated, and user-friendly database systems, while maintaining the critical role of data management in modern information systems. 
+The future points toward more intelligent, automated, and user-friendly database systems, while maintaining the critical role of data management in modern information systems.
