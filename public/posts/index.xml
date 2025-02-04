@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Chinese Developer Ecosystem Observer</title>
+    <link>http://localhost:52411/posts/</link>
+    <description>Recent content in Posts on Chinese Developer Ecosystem Observer</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2025 10:53:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:52411/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Chinese Tech</title>
+      <link>http://localhost:52411/posts/introduction-to-chinese-tech/</link>
+      <pubDate>Tue, 04 Feb 2025 10:53:45 +0800</pubDate>
+      <guid>http://localhost:52411/posts/introduction-to-chinese-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:52411/posts/my-first-post/</link>
+      <pubDate>Tue, 04 Feb 2025 10:46:33 +0800</pubDate>
+      <guid>http://localhost:52411/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Evolution of China&#39;s Technology Landscape</title>
+      <link>http://localhost:52411/posts/chinese-tech-evolution/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52411/posts/chinese-tech-evolution/</guid>
+      <description>&lt;p&gt;During my twenty-plus years at CSDN, I have witnessed the birth and evolution of numerous technologies&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:52411/posts/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52411/posts/welcome/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

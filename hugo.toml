@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Chinese Developer Ecosystem Observer"
+theme = "PaperMod"
+
+[params]
+description = "Insights into China Software Industry and Developer Ecosystem"

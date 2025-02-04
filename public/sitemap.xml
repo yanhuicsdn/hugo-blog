@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:52411/</loc>
+    <lastmod>2025-02-04T10:53:45+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/posts/introduction-to-chinese-tech/</loc>
+    <lastmod>2025-02-04T10:53:45+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/posts/</loc>
+    <lastmod>2025-02-04T10:53:45+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/posts/my-first-post/</loc>
+    <lastmod>2025-02-04T10:46:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/tags/china/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/tags/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/tags/technology/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/posts/chinese-tech-evolution/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52411/posts/welcome/</loc>
+  </url><url>
+    <loc>http://localhost:52411/categories/</loc>
+  </url>
+</urlset>

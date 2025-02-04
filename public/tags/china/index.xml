@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>China on Chinese Developer Ecosystem Observer</title>
+    <link>http://localhost:52411/tags/china/</link>
+    <description>Recent content in China on Chinese Developer Ecosystem Observer</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:52411/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Evolution of China&#39;s Technology Landscape</title>
+      <link>http://localhost:52411/posts/chinese-tech-evolution/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52411/posts/chinese-tech-evolution/</guid>
+      <description>&lt;p&gt;During my twenty-plus years at CSDN, I have witnessed the birth and evolution of numerous technologies&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
