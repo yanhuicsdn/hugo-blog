@@ -1,4 +1,4 @@
-baseURL = "./"
+baseURL = "/"
 languageCode = "en-us"
 title = "Chinese Developer Ecosystem Observer - Tech Insights"
 theme = "PaperMod"
@@ -37,6 +37,9 @@ target = "content"
 [[module.mounts]]
 source = "static"
 target = "static"
+[[module.mounts]]
+source = "themes/PaperMod/assets"
+target = "assets"
 [[module.mounts]]
 source = "layouts"
 target = "layouts"
