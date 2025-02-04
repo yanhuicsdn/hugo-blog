@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Chinese Developer Ecosystem Observer"
+title = "Chinese Developer Ecosystem Observer - Tech Insights"
 theme = "PaperMod"
 
 [params]
