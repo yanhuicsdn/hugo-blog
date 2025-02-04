@@ -11,6 +11,17 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+mainSections = ["posts"]
+
+# 首页显示模式
+[params.homeInfoParams]
+Title = "欢迎来到我的博客"
+Content = "分享技术见解和行业动态"
+
+# 首页社交图标
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/yanhuicsdn"
 
 [permalinks]
 posts = "posts/:filename/"
