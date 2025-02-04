@@ -5,6 +5,6 @@
         }
     },
     "installCommand": "git submodule update --init --recursive",
-    "buildCommand": "hugo --gc --minify",
+    "buildCommand": "hugo --gc",
     "outputDirectory": "public"
-} 
+}
