@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "Chinese Developer Ecosystem Observer - Tech Insights"
 theme = "PaperMod"
@@ -13,9 +13,10 @@ ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 relativeURLs = true
 canonifyURLs = false
+uglyURLs = false
 
 [permalinks]
-posts = "/posts/:filename/"
+posts = "posts/:filename/"
 
 [markup.goldmark.renderer]
 unsafe = true
