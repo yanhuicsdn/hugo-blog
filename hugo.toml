@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Chinese Developer Ecosystem Observer - Tech Insights"
 theme = "PaperMod"
@@ -22,6 +22,13 @@ posts = "posts/:filename/"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[minify]
+disableXML = true
+minifyOutput = true
 
 [module]
 [[module.mounts]]

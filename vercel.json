@@ -1,0 +1,10 @@
+{
+    "build": {
+        "env": {
+            "HUGO_VERSION": "0.121.1",
+            "HUGO_BASEURL": "https://hugo-blog-yanhuicsdn.vercel.app"
+        }
+    },
+    "buildCommand": "hugo --gc --minify",
+    "outputDirectory": "public"
+} 

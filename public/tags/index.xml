@@ -2,24 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Chinese Developer Ecosystem Observer</title>
-    <link>http://localhost:52411/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chinese Developer Ecosystem Observer</description>
     <generator>Hugo -- 0.143.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52411/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China</title>
-      <link>http://localhost:52411/tags/china/</link>
+      <link>/tags/china/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52411/tags/china/</guid>
+      <guid>/tags/china/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSDN</title>
+      <link>/tags/csdn/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/csdn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Experience</title>
+      <link>/tags/personal-experience/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/personal-experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Industry</title>
+      <link>/tags/software-industry/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/software-industry/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:52411/tags/technology/</link>
+      <link>/tags/technology/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52411/tags/technology/</guid>
+      <guid>/tags/technology/</guid>
       <description></description>
     </item>
   </channel>

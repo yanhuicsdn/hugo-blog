@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Software Industry on Chinese Developer Ecosystem Observer</title>
-    <link>http://localhost:51982/tags/software-industry/</link>
+    <link>/tags/software-industry/</link>
     <description>Recent content in Software Industry on Chinese Developer Ecosystem Observer</description>
     <generator>Hugo -- 0.143.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51982/tags/software-industry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/software-industry/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Evolution of China&#39;s Technology Landscape</title>
-      <link>http://localhost:51982/posts/chinese-tech-evolution/</link>
+      <title>The Evolution of China&#39;s Technology Landscape: Two Decades of Observation</title>
+      <link>/posts/chinese-tech-evolution/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51982/posts/chinese-tech-evolution/</guid>
-      <description>&lt;p&gt;During my twenty-plus years at CSDN, I&amp;rsquo;ve had the privilege of witnessing firsthand the birth, development, and popularization of numerous technologies. Throughout this journey, I&amp;rsquo;ve had the fortune to meet many technical experts, some of whom were direct participants in shaping these technologies.&lt;/p&gt;
-&lt;p&gt;The rapid development of China&amp;rsquo;s technology sector has been remarkable. Companies like Baidu, Alibaba, and Tencent have become global leaders in innovation, particularly in areas like artificial intelligence, cloud computing, and mobile technology.&lt;/p&gt;</description>
+      <guid>/posts/chinese-tech-evolution/</guid>
+      <description>&lt;p&gt;During my twenty-plus years at CSDN, I&amp;rsquo;ve had the privilege of witnessing firsthand the birth, development, and popularization of numerous technologies. Throughout this journey, I&amp;rsquo;ve had the fortune to meet many technical experts, some of whom were direct participants in shaping these technologies. Particularly in internet technology development, Chinese technical experts have been keeping pace with global trends.&lt;/p&gt;
+&lt;h2 id=&#34;the-path-of-a-programmer&#34;&gt;The Path of a Programmer&lt;/h2&gt;
+&lt;p&gt;Every programmer, during their development journey, often chooses a specific technical path and delves deep into it to become a technical expert. However, programmers have another career path available: technical management. The challenge of moving into technical management lies not only in management capabilities but also in the breadth of technical knowledge. Only by understanding multiple technical domains can one truly grasp technological trends, formulate technical strategies, and guide company products in the right direction.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

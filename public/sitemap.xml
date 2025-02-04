@@ -2,32 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:52411/</loc>
+    <loc>/</loc>
     <lastmod>2025-02-04T10:53:45+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/posts/introduction-to-chinese-tech/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-02-04T10:53:45+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/posts/</loc>
-    <lastmod>2025-02-04T10:53:45+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52411/posts/my-first-post/</loc>
-    <lastmod>2025-02-04T10:46:33+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52411/tags/china/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/tags/</loc>
+    <loc>/tags/china/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/tags/technology/</loc>
+    <loc>/tags/csdn/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/posts/chinese-tech-evolution/</loc>
+    <loc>/categories/insights/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/posts/welcome/</loc>
+    <loc>/tags/personal-experience/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52411/categories/</loc>
+    <loc>/tags/software-industry/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/technology/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/chinese-tech-evolution/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/welcome/</loc>
   </url>
 </urlset>
