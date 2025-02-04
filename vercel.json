@@ -4,6 +4,7 @@
             "HUGO_VERSION": "0.125.7"
         }
     },
+    "installCommand": "git submodule update --init --recursive",
     "buildCommand": "hugo --gc --minify",
     "outputDirectory": "public"
 } 
