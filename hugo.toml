@@ -4,4 +4,32 @@ title = "Chinese Developer Ecosystem Observer - Tech Insights"
 theme = "PaperMod"
 
 [params]
-description = "Insights into China Software Industry and Developer Ecosystem"
+description = "Insights into China Software Industry and Developer Ecosystem - Latest Updates"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+relativeURLs = true
+canonifyURLs = false
+
+[permalinks]
+posts = "/posts/:filename/"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[module]
+[[module.mounts]]
+source = "content"
+target = "content"
+[[module.mounts]]
+source = "static"
+target = "static"
+[[module.mounts]]
+source = "layouts"
+target = "layouts"
+[[module.mounts]]
+source = "data"
+target = "data"
