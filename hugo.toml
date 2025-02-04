@@ -2,6 +2,10 @@ baseURL = ""
 languageCode = "en-us"
 title = "Chinese Developer Ecosystem Observer - Tech Insights"
 theme = "PaperMod"
+relativeURLs = true
+canonifyURLs = false
+uglyURLs = false
+cleanDestinationDir = true
 
 [params]
 description = "Insights into China Software Industry and Developer Ecosystem - Latest Updates"
@@ -11,9 +15,7 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
-relativeURLs = true
-canonifyURLs = false
-uglyURLs = false
+assets.disableFingerprinting = true
 
 [permalinks]
 posts = "posts/:filename/"
