@@ -11,6 +11,7 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+assets = "themes/PaperMod/assets"
 
 [permalinks]
 posts = "posts/:filename/"
@@ -41,3 +42,5 @@ target = "layouts"
 [[module.mounts]]
 source = "data"
 target = "data"
+[[module.imports]]
+path = "github.com/adityatelange/hugo-PaperMod"
