@@ -31,7 +31,3 @@ unsafe = true
 
 [outputs]
 home = ["HTML", "RSS"]
-
-[minify]
-disableXML = true
-minifyOutput = true
