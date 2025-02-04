@@ -1,40 +1,38 @@
 ---
-title: "A Brief History of Database Technology"
+title: "数据库技术简史"
 date: 2024-02-04
 draft: false
-tags: ["database", "technology history", "DBA", "cloud computing", "AI"]
+tags: ["database", "technology"]
 categories: ["technology"]
 ---
 
-## Introduction
+数据库技术在支撑现代信息系统方面的作用越来越重要，我们邀请了几位数据库技术领域的专家，就数据库技术发展的历史脉络和未来展望进行了广泛而深入的探讨。
 
-With the rapid development of information technology, the role of database technology in supporting modern information systems has become increasingly important. We have invited several experts in the field of database technology to engage in a broad and in-depth discussion on the historical context and future prospects of database technology development.
+嘉宾介绍：
 
-## Distinguished Guests
+盖国强
+- 云和泥墨创始人
+- 鲲鹏MVP
+- 墨铁社区发起人
+- 中国第一位Oracle ACE和ACE总监
+- 《数据安全警示录》《Oracle深度解析》等技术书籍作者
 
-### Gai Guoqiang
-- Founder of Yunhe Nimo
-- Kungpeng MVP
-- Initiator of the Motie.com community
-- First Oracle ACE and ACE director in China
-- Author of technical books including "Data Security Alerts" and "In-Depth Analysis of Oracle"
+陈立仁
+- 磐霖资本风险合伙人
+- 证监会科技监管专家咨询委员会委员
+- 乌镇智库首席科学家
+- 20多年互联网研发和管理经验
+- 联合创立过Hubat、Vivisimo、云云网、平实科技等公司
+- 曾任Google（美国）项目技术总监
+- 清华大学、卡内基梅隆大学双硕士
 
-### Chen Liren
-- Risk Partner at Panlin Capital
-- Member of China Securities Regulatory Commission's Science and Technology Supervision Expert Advisory Committee
-- Chief Scientist of Wuzhen Think Tank
-- Over 20 years of experience in internet R&D and management
-- Co-founder of companies including Hubat, Vivisimo, Yunyun.com, and Pingshi Technology
-- Former Project Technical Director at Google (USA)
-- Education: Master's degrees from Tsinghua University and Carnegie Mellon University
-
-### Luo Yun
-- Deputy General Manager of Tencent Cloud Database
-- Overall business head of Tencent Cloud NoSQL and SaaS teams
-- Founding member of Tencent Cloud team
-- Over 10 years of expertise in cloud computing
-- Led development of WeChat Mini Program Cloud Development platform
-- Led launches of multiple database SaaS ecosystem services
+罗云
+- 腾讯云数据库副总经理
+- 腾讯云NoSQL和SaaS团队整体业务负责人
+- 腾讯云创始团队成员
+- 10年以上云计算领域专家
+- 主导微信小程序云开发平台研发
+- 主导多个数据库SaaS生态服务上线
 
 ## Key Historical Milestones
 
